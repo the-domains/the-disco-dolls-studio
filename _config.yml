@@ -1,28 +1,18 @@
-name: The Disco Dolls Studio
-favicon: null
-layout_spectrum: 0.21085240319371223
-typography_spectrum: 0.046244178898632526
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.8950749516952783
-  lightness: 0.5412452325690538
-  saturation: 0.4104410249274224
-  rhythmicContrast: 0.9549076894763857
+    - '#D8C0E0'
+    - '#202070'
+    - '#885870'
+    - '#2828A0'
+    - '#F8B078'
+  brandStrength: 0.77027
+  lightness: 0.655405
+  rhythmicContrast: 0.959459
+  saturation: 0.672297
+cta: {}
+layout_spectrum: 0.938063
+name: The Disco Dolls Studio
+opengraph: {}
 purpose: []
+typography_spectrum: 0.467342
